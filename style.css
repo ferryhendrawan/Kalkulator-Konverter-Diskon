@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 30px 25%;
+    background-image: url('bg1.png');
+    font-family: Tahoma;
+}
+
+form {
+    background: #005a91;
+    padding: 30px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    border-bottom: 1px solid #639cbf;
+    padding: 10px;
+}
+
+h1 {
+    color: #005a91;
+    text-align: center;
+}
+
+#tombol-submit {
+    background-image: linear-gradient(rgb(102, 195, 238), rgb(68, 100, 207));
+    border: 3px solid #f9ffcf;
+    padding: 10px 20px;
+}
+
